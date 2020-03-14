@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'myfutu04_sbbike');
+define('DB_NAME', '');
 
 /** MySQL database username */
-define('DB_USER', 'myfutu04_sbbike');
+define('DB_USER', '');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'kDk_JId&3w,G');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'k5lnanldfglrqgdzlbzgamigjbtabqnc9thze59b60suyfygtugchalkdwtzx2hs');
-define('SECURE_AUTH_KEY',  'pig07mjckbzd8own5fyvsmxul9nfww9zew5s4dlzefgvsk5coda7p2331ai5l9ca');
-define('LOGGED_IN_KEY',    'rg54fmtzoiis5btnwoluylfd2qkyvrtz4uy6b68iuinjzuruf97mbbgunzii1b6s');
-define('NONCE_KEY',        'dcx9iv9gbvamgxk8y7fum6kvclciv4dxrhfnqobhfmgcm8gngqckfvssq1twqiey');
-define('AUTH_SALT',        'ejq4a7kmynndhonm7slyxaayquv1erasfw9ee3l776py3dewxeu9tgs1tsk0txer');
-define('SECURE_AUTH_SALT', 'h2xnrijj041hysdenznlwdi0qc10bn5ce7ufbr2hmvatked8w0ynu1ckykbj45vz');
-define('LOGGED_IN_SALT',   'egxpqfshl6fx3a4htgivsaodgjjrjefxndx0glt04ohypgpmgcxkzabbnuqlipjw');
-define('NONCE_SALT',       '8kgimjz9wn0btx5pnc6duh84otqdxmbhskit9rfk4uvwf7zzpqxocbxpk9gomdtj');
+define('AUTH_KEY',         '');
+define('SECURE_AUTH_KEY',  '');
+define('LOGGED_IN_KEY',    '');
+define('NONCE_KEY',        '');
+define('AUTH_SALT',        '');
+define('SECURE_AUTH_SALT', '');
+define('LOGGED_IN_SALT',   '');
+define('NONCE_SALT',       '');
 
 /**#@-*/
 
