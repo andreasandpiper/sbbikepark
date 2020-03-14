@@ -1,0 +1,38 @@
+/*
+Theme Name: Gateway Plus Child
+Theme URI: http://localhost/sbbikepark
+Author: Andrea Wayte
+Description: Modifying the parent theme for SBBIKEPARK
+Template: gateway-plus
+Version: 0.0.1
+Tags: bootstrap, gatewayplus, mtb, bikepake
+*/
+
+@import url("../gateway-plus/app.css");
+
+p {
+  font-size: 30px;
+}
+
+@media (max-width: 800px) {
+  * {
+    /*CSS transitions*/
+ -o-transition-property: none !important;
+ -moz-transition-property: none !important;
+ -ms-transition-property: none !important;
+ -webkit-transition-property: none !important;
+ transition-property: none !important;
+ /*CSS transforms*/
+ -o-transform: none !important;
+ -moz-transform: none !important;
+ -ms-transform: none !important;
+ -webkit-transform: none !important;
+ transform: none !important;
+ /*CSS animations*/
+ -webkit-animation: none !important;
+ -moz-animation: none !important;
+ -o-animation: none !important;
+ -ms-animation: none !important;
+ animation: none !important;
+  }
+}
